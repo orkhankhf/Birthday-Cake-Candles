@@ -1,4 +1,4 @@
-# Birthday-cake-candles
+**Birthday Cake Candles**
 
 Problem: https://www.hackerrank.com/challenges/birthday-cake-candles/problem
 
